@@ -80,7 +80,7 @@ public class MainClass {
 		 h1.roomNo="85";
 		 h1.hospitalName="city hospital";
 		 h1.address="sangola";
-		 h1.mobNo
+		 h1.mobNo = 788387;
 	}
-	
+
 }
