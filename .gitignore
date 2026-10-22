@@ -1,0 +1,9 @@
+bin/
+*.class
+.metadata/
+.settings/
+.project
+.classpath
+.settings/
+*/.git_backup/
+javapractice/.git_backup/
