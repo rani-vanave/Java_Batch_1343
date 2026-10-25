@@ -64,7 +64,8 @@ public class MainClass {
 		 
 		 lab. display();
 		 
-		 
+		System.out.println("------------------------------------------------------------------------------------"); 
+		
 		 Hospital h1 =new Hospital ();
 		 h1.patientId=1212;
 		 h1.patientName="Sneha";
@@ -80,7 +81,42 @@ public class MainClass {
 		 h1.roomNo="85";
 		 h1.hospitalName="city hospital";
 		 h1.address="sangola";
-		 h1.mobNo = 788387;
+		 h1.mobNo = 7883876831l;
+		 
+		 h1.display();
+		 
+		 
+		 System.out.println("---------------------------------------------------------------------------------------------");
+		 
+		 Vehicle v=new Vehicle();
+		 v.vehicleId=501;
+		 v.brand="Honda";
+		 v.model="Shine";
+		 v.color="Black";
+		 v.vehicleType="Bike";
+		 v.fuelType="Petrol";
+		 v.price=89000.60;
+		 v.manufacturingYear=2024;
+		 v.registrationNo="MH23AB1234";
+		 v.seatingCapacity=2;
+		 v.mileage=55;
+		 v.ownerName="Amit";
+		 v.insuranceNumber="ISS12345";
+		 v.registrationDate="10-01-2025";
+		 v.isElectrict=false;
+		 
+		 v.display();
+			 
+		 
+		System.out.println("----------------------------------------------------------------------------------------------"); 
+		MyDetail info = new MyDetail();
+		
+		info.personal();
+		info.course();
+		info.collegeinfo();
+		
+		
+		 
 	}
 
 }
