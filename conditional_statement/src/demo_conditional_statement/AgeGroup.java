@@ -2,7 +2,7 @@ package demo_conditional_statement;
 
 public class AgeGroup {
 	public static void main(String[] args) {
-		int age=45;
+		int age=25;
 		
 		if(age > 0 && age <12) {
 			System.out.println("Child");
