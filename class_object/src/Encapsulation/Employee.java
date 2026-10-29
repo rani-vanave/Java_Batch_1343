@@ -128,9 +128,10 @@ public class Employee {
 		this. qualification=qualification;
 	 }
 	 public String getqualification() {
-		 return qualification;
+		 return qualification; 
 	 }
-}
+} 
+
 	
 	
 
