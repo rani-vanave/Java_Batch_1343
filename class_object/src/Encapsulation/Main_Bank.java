@@ -7,6 +7,6 @@ public class Main_Bank {
 	Bank account = new Bank();
 
 	account.setdeposit(100);                   
-	System.out.println("Bank balance :" +account.getBalance()); 
+	System.out.println("Bank balance : " + account.getBalance()); 
 }
 }
