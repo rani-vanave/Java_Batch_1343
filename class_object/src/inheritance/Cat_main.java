@@ -6,7 +6,7 @@ public class Cat_main {
 		Cat c=new Cat();
 		d.eat();
 		d.bark();
-		System.out.println("---------------");
+		System.out.println("-----------------------");
 		c.eat();
 		c.meow();
 	}
