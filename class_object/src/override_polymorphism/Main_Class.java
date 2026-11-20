@@ -7,6 +7,8 @@ public class Main_Class {
 		a=new Cat();
 		a.sound();
 		
+		
+		
 	}
 
 }
